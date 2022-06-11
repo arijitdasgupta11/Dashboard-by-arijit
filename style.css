@@ -62,14 +62,14 @@ h1 {
 #score td{
     text-align: center;
     margin: 10px auto;
-    padding: 15px 35px;
+    padding: 12px 25px;
     white-space: nowrap;
     color: white;
 
 }
 
 #score td img{
-    margin:8px;
+    margin:6px;
    height: 20px;
    width: 20px;
 
